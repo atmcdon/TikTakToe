@@ -1,0 +1,10 @@
+C:\dev\T200\Gane\bin\Debug\Gane.exe.config
+C:\dev\T200\Gane\bin\Debug\Gane.exe
+C:\dev\T200\Gane\bin\Debug\Gane.pdb
+C:\dev\T200\Gane\obj\Debug\Gane.csproj.AssemblyReference.cache
+C:\dev\T200\Gane\obj\Debug\Gane.Form1.resources
+C:\dev\T200\Gane\obj\Debug\Gane.Properties.Resources.resources
+C:\dev\T200\Gane\obj\Debug\Gane.csproj.GenerateResource.cache
+C:\dev\T200\Gane\obj\Debug\Gane.csproj.CoreCompileInputs.cache
+C:\dev\T200\Gane\obj\Debug\Gane.exe
+C:\dev\T200\Gane\obj\Debug\Gane.pdb
